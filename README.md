@@ -39,11 +39,7 @@ HID (Hyper Instrument Data) is a revolutionary music data format designed specif
 
 ## 🛠️ Installation
 
-```bash
-pip install hid-music
-```
-
-Or install from source:
+Install from source:
 
 ```bash
 git clone https://github.com/FreeNingLu/HID.git
