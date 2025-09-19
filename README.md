@@ -173,8 +173,9 @@ Free for academic research. Please cite our paper.
 
 ## 📧 Contact
 
-- **Research**: freening.lu@example.com
-- **Commercial Licensing**: licensing@hid-format.com
+- **Research**: nl2608@stern.nyu.edu
+- **WeChat**: 13119447344
+- **Commercial Licensing**: nl2608@stern.nyu.edu
 - **Technical Support**: [GitHub Issues](https://github.com/FreeNingLu/HID/issues)
 
 ## 🙏 Acknowledgments

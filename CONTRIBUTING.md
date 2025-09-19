@@ -118,7 +118,8 @@ Thank you for your interest in contributing to the HID Format project! We welcom
 
 - **Issues**: [GitHub Issues](https://github.com/FreeNingLu/HID/issues)
 - **Discussions**: [GitHub Discussions](https://github.com/FreeNingLu/HID/discussions)
-- **Email**: contribute@hid-format.com
+- **Email**: nl2608@stern.nyu.edu
+- **WeChat**: 13119447344
 
 ## 🏆 Recognition
 

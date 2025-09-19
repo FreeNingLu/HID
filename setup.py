@@ -11,7 +11,7 @@ setup(
     name="hid-music",
     version="1.0.0",
     author="Freening Lu",
-    author_email="freening.lu@example.com",
+    author_email="nl2608@stern.nyu.edu",
     description="HID: An AI-Native Music Representation Format",
     long_description=long_description,
     long_description_content_type="text/markdown",
