@@ -1,7 +1,7 @@
 """
 HID Paper Reproduction Code
 Experiments for the research paper:
-"HID: An AI-Native Music Representation Achieving 87.6% Compression with 2.3× Processing Speed"
+"HID: Hyper Instrument Data - An AI-Native Music Representation Achieving 87.6% Compression with 2.3× Processing Speed"
 """
 
 import numpy as np

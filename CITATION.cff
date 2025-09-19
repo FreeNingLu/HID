@@ -4,7 +4,7 @@ authors:
   - family-names: Lu
     given-names: Freening
     orcid: https://orcid.org/0000-0000-0000-0000
-title: "HID: An AI-Native Music Representation Achieving 87.6% Compression with 2.3× Processing Speed"
+title: "HID: Hyper Instrument Data - An AI-Native Music Representation Achieving 87.6% Compression with 2.3× Processing Speed"
 version: 1.0.0
 date-released: 2025-01-01
 url: "https://github.com/FreeNingLu/HID"
@@ -13,7 +13,7 @@ preferred-citation:
   authors:
     - family-names: Lu
       given-names: Freening
-  title: "HID: An AI-Native Music Representation Achieving 87.6% Compression with 2.3× Processing Speed"
+  title: "HID: Hyper Instrument Data - An AI-Native Music Representation Achieving 87.6% Compression with 2.3× Processing Speed"
   journal: "arXiv"
   year: 2025
   url: "https://arxiv.org/abs/2025.xxxxx"

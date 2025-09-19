@@ -12,7 +12,7 @@ setup(
     version="1.0.0",
     author="Freening Lu",
     author_email="nl2608@stern.nyu.edu",
-    description="HID: An AI-Native Music Representation Format",
+    description="HID: Hyper Instrument Data - An AI-Native Music Representation Format",
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/FreeNingLu/HID",

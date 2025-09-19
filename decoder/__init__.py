@@ -1,5 +1,5 @@
 """
-HID (Hierarchical Interchange Data) Format Decoder
+HID (Hyper Instrument Data) Format Decoder
 Open-source decoder for the HID music format
 
 Patent Notice: The encoding algorithm is patent-protected (CN202410xxxxx).

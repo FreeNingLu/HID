@@ -1,4 +1,4 @@
-# HID: Hierarchical Interchange Data Format for Music 🎵
+# HID: Hyper Instrument Data Format for Music 🎵
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![arXiv](https://img.shields.io/badge/arXiv-2025.xxxxx-b31b1b.svg)](https://arxiv.org)
@@ -7,7 +7,7 @@
 
 ## 🚀 The First AI-Native Music Format
 
-HID (Hierarchical Interchange Data) is a revolutionary music data format designed specifically for the AI era, achieving **87.6% compression** while maintaining **100% lossless** quality and providing **2.3× faster** processing speed.
+HID (Hyper Instrument Data) is a revolutionary music data format designed specifically for the AI era, achieving **87.6% compression** while maintaining **100% lossless** quality and providing **2.3× faster** processing speed.
 
 ### Key Features
 - 🗜️ **87.6% Compression Rate** - 5× smaller than MIDI
