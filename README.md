@@ -168,8 +168,6 @@ Free for academic research. Please cite our paper.
 ## 🏆 Awards & Recognition
 
 - 🏅 Patent granted by China National Intellectual Property Administration
-- 🎯 Adopted by major music AI companies
-- 📈 1000+ GitHub stars in first month
 
 ## 📧 Contact
 
